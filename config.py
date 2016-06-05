@@ -3,5 +3,5 @@ General configuration parameters
 """
 
 DATABASES = {
-    'default': 'postgresql://gmtadmin:admin123@localhost/db_gmt_platform'
+    'default': 'postgresql://user:password@localhost/database_name'
 }
